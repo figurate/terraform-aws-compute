@@ -1,5 +1,7 @@
 # AWS AutoScaling Group
 
+[![CI](https://github.com/figurate/terraform-aws-autoscaling-group/actions/workflows/main.yml/badge.svg)](https://github.com/figurate/terraform-aws-autoscaling-group/actions/workflows/main.yml)
+
 ![AWS AutoScaling Group](aws\_autoscaling\_group.png)
 
 ## Requirements
